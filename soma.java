@@ -1,4 +1,4 @@
-public class somando {
+public class soma {
 public static int soma (int num){
 
 if (num <= 0)
@@ -18,7 +18,7 @@ public static void main(String[] args){
 	
 	}
 
-	System.out.println("Soma dos números: " + soma);
+	System.out.println("Soma dos nï¿½meros: " + soma);
 
      }
 
